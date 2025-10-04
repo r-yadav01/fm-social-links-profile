@@ -68,9 +68,12 @@
     </div>
 
     <script>
-      let themeSwitcher = document.querySelector('.theme-switcher');
+      document.addEventListener('DOMContentLoaded', addListeners);
 
-      themeSwitcher.addEventListener('click', switchTheme);
+      function addListeners() {
+        let themeSwitcher = document.querySelector('.theme-switcher');
+        themeSwitcher.addEventListener('click', switchTheme);
+      }
 
       function switchTheme(event) {
         const body = document.querySelector('body');

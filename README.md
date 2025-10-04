@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [via github pages](https://r-yadav01.github.io/fm-social-links-profile/)
+- Solution URL: [hosted on github](https://github.com/r-yadav01/fm-social-links-profile)
+- Live Site URL: [on github pages](https://r-yadav01.github.io/fm-social-links-profile/)
 
 ## My process
 
