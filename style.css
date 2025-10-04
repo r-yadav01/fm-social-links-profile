@@ -98,7 +98,7 @@ body {
 
 .about > img {
   border-radius: 100%;
-  max-width: 40%;
+  max-width: 35%;
   margin: auto;
 }
 
@@ -168,17 +168,3 @@ body.light {
   --border-color: hsl(0, 0%, 70%);
   --button-border: hsl(0, 0%, 80%);
 }
-
-/* @media (prefers-color-scheme: light) {
-  :root {
-    --bg-light: hsl(0, 0%, 100%);
-    --bg: hsl(0, 0%, 90%);
-    --bg-dark: hsl(0, 0%, 80%);
-    --font-color: hsl(0, 0%, 10%);
-    --font-color-muted: hsl(0, 0%, 30%);
-    --font-color-location: hsl(75, 50%, 43%);
-    --font-color-hover: hsl(0, 0%, 10%);
-    --border-color: hsl(0, 0%, 70%);
-    --button-border: hsl(0, 0%, 80%);
-  }
-} */
