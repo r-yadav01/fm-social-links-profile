@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/screenshot_dark_theme.png)
+![](./assets/images/Screenshot_dark_theme.png)
 
-![](./assets/images/screenshot_light_theme.png)
+![](./assets/images/Screenshot_light_theme.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [via github pages](https://r-yadav01.github.io/fm-social-links-profile/)
 
 ## My process
 
