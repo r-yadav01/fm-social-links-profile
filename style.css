@@ -2,8 +2,8 @@
 
 /* system font stack by css-tricks*/
 body {
-    font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji',
-        'Segoe UI Emoji', 'Segoe UI Symbol';
+    font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+        'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
 *,
@@ -148,10 +148,12 @@ body {
     color: var(--font-color);
     text-decoration: none;
     font-weight: bold;
+    transition: all 0.2s ease-in;
 }
 
 .attribution a:hover {
     text-decoration: underline;
+    color: var(--font-color-location);
 }
 
 body.light {
